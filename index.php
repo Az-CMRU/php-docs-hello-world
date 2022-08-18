@@ -12,7 +12,7 @@
             echo "Hello Azure!";
 
         ?>
-        <mgt-msal2-provider client-id="YOUR-CLIENT-ID"></mgt-msal2-provider>
+        <mgt-msal2-provider client-id="34d3394e-fc80-407a-9ada-00f09a2ad857"></mgt-msal2-provider>
         <mgt-login></mgt-login>
   </body>
 </html>
